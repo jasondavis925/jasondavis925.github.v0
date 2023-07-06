@@ -1,6 +1,6 @@
 # jasondavis925.github.v0
-The simplest approach to post markdown, html and css.
-![](https://github.com/jasondavis925/jasondavis925.github.io/blob/master/assets/img/path.jpg)
+<!-- The simplest approach to post markdown, html and css.
+![](https://github.com/jasondavis925/jasondavis925.github.io/blob/master/assets/img/path.jpg) -->
 # splash
 This is my attempt to develop a website.
 > By [Jason Davis](mailto:jasondavis925@gmail.com) &middot; [Demo]<!--(https://beautifuljekyll.com/)-->

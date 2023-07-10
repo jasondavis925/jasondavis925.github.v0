@@ -271,9 +271,9 @@ exclude:
   - README.md
   - docs/
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
 
 # Jon Jason Davis
 # 

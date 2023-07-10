@@ -5,7 +5,15 @@
 This is my attempt to develop a website.
 > By [Jason Davis](mailto:jasondavis925@gmail.com) &middot; [Demo]<!--(https://beautifuljekyll.com/)-->
 
-**This** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  <!--[Check out a demo](https://beautifuljekyll.com)--> of what you'll get after just two minutes.  You can also look at <!--[my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com)--> to see it in use, or see <!--[examples of websites](http://beautifuljekyll.com/examples)--> other people created using this theme.
+**This** is a ready-to-use template that helps build good websites quickly for development of personal sites, blogs, or simple projects.
+A Basic site includes:
+_config.yml | title: 
+
+Then index.html calls _layout/home.html which call page.html and to establish the first title blog.
+_layout/home.html
+
+index.html
+
 
 **If you enjoy This, please consider <!--[supporting me](https://github.com/sponsors/daattali)--> for over 5 years of development (and to unlock rewards!) ❤**
 

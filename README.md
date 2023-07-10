@@ -9,8 +9,19 @@ This is my attempt to develop a website.
 
 The Basic site includes:
 1. Configure file and title
+   _config.yml
+
 2. Add Title of first blog
+   index.html
+   _layout/home.html
+   _layout/page.html
+   
 3. Add Style
+   _layout/base.html
+   _include/head.html
+   _include/header.html
+   _include/footer.html
+   _include/footer-minimal.html
 
 
 STEP ONE _Config File
@@ -20,6 +31,7 @@ STEP TWO - Blog Title
 To establish the first blog title, include a file called index.html that calls _layout/home.html and page.html. These files overwrite the _config file content.
 
 STEP THREE - Add Style
+
 
 
 **If you enjoy This, please consider <!--[supporting me](https://github.com/sponsors/daattali)--> for over 5 years of development (and to unlock rewards!) ❤**

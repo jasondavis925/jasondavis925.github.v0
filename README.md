@@ -6,13 +6,16 @@ This is my attempt to develop a website.
 > By [Jason Davis](mailto:jasondavis925@gmail.com) &middot; [Demo]<!--(https://beautifuljekyll.com/)-->
 
 **This** is a ready-to-use template that helps build good websites quickly for development of personal sites, blogs, or simple projects.
-A Basic site includes:
 
-STEP ONE:
-_config.yml | title: 
+The Basic site includes:
 
-STEP TWO:
-Include index.html that calls _layout/home.html and page.html to establish the first title blog. This overwrites _config file content.
+STEP ONE _Config File
+Add _config.yml file and insert a line of code to add a title:
+
+STEP TWO - Blog Title
+To establish the first blog title, include a file called index.html that calls _layout/home.html and page.html. These files overwrite the _config file content.
+
+STEP THREE - Add Style
 
 
 **If you enjoy This, please consider <!--[supporting me](https://github.com/sponsors/daattali)--> for over 5 years of development (and to unlock rewards!) ❤**

@@ -1,13 +1,8 @@
-###########################################################
-### This config file is meant for settings that affect your entire website. When you first
-### set up your website you should go through all these settings and edit them.
-###########################################################
-
 ############################
 # --- Required options --- #
 ############################
 
-# Name of website - located in top left corner of home page
+# Name of website - located in top left corner of home page - printed as script without any other requirements
 title: Jasper's Blog
 
 # Your name to show in the footer

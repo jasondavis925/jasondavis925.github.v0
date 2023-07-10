@@ -7,12 +7,10 @@ This is my attempt to develop a website.
 
 **This** is a ready-to-use template that helps build good websites quickly for development of personal sites, blogs, or simple projects.
 A Basic site includes:
+
 _config.yml | title: 
 
-Then index.html calls _layout/home.html which call page.html and to establish the first title blog.
-_layout/home.html
-
-index.html
+Include index.html that calls _layout/home.html and page.html to establish the first title blog. This overwrites _config file content.
 
 
 **If you enjoy This, please consider <!--[supporting me](https://github.com/sponsors/daattali)--> for over 5 years of development (and to unlock rewards!) ❤**

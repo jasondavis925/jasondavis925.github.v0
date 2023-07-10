@@ -272,8 +272,8 @@ exclude:
   - docs/
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+<!--  - jekyll-paginate -->
+<!--  - jekyll-sitemap  -->
 
 # Jon Jason Davis
 # 

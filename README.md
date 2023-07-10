@@ -8,8 +8,10 @@ This is my attempt to develop a website.
 **This** is a ready-to-use template that helps build good websites quickly for development of personal sites, blogs, or simple projects.
 A Basic site includes:
 
+STEP ONE:
 _config.yml | title: 
 
+STEP TWO:
 Include index.html that calls _layout/home.html and page.html to establish the first title blog. This overwrites _config file content.
 
 

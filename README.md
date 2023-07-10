@@ -5,9 +5,13 @@
 This is my attempt to develop a website.
 > By [Jason Davis](mailto:jasondavis925@gmail.com) &middot; [Demo]<!--(https://beautifuljekyll.com/)-->
 
-**This** is a ready-to-use template that helps build good websites quickly for development of personal sites, blogs, or simple projects.
+**This** is a ready-to-use template that helps quickly build good webpages to develop personal sites, blogs and simple projects.
 
 The Basic site includes:
+1. Configure file and title
+2. Add Title of first blog
+3. Add Style
+
 
 STEP ONE _Config File
 Add _config.yml file and insert a line of code to add a title:

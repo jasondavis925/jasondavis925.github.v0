@@ -270,6 +270,7 @@ exclude:
   - LICENSE
   - README.md
   - docs/
+  - gtm_head.html
 
 plugins:
   - jekyll-paginate
